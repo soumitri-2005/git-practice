@@ -1,6 +1,2 @@
-login feature added
-payment feature added
-fdsfdsfsd
-knlknlkmlml
-nnknlkn
-dfdsfsdf
+hello
+this is for detaching
