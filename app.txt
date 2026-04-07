@@ -1,5 +1,2 @@
 hello
-login feature added
-payment feature added
-Adassfdsfsd
-asdasf
+
